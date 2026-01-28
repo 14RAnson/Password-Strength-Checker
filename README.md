@@ -11,10 +11,10 @@ first.
 # Criteria
 
 The program analyses the strength of a password based on:
-    Length, 
-    Upper and lower case characters, 
-    Special characters and numbers, 
-    Whether words are valid english words using dictionaryapi.dev
+    length, 
+    upper and lower case characters, 
+    upecial characters and numbers, 
+    whether words are valid english words using dictionaryapi.dev
 
 # Purpose
 
