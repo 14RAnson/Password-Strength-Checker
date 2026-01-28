@@ -1,5 +1,6 @@
 # Password-Strength-Checker
 What the program is
+
 A command-line based program to evaluate the strengths of passwords
 using many different criteria while using an external API to check if words
 in the password match words in the dictionary which would decrease its strength.
